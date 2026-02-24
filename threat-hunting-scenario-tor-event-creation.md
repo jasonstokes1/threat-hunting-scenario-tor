@@ -77,7 +77,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Jason Stokes
 - **Author Contact**: https://www.linkedin.com/in/jason-stokes-50144518a/
-- **Date**: February 1, 2026
+- **Date**: February 9, 2026
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `February  1, 2026`  | `Jason Stokes`   
+| 1.0         | Initial draft                  | `February  10, 2026`  | `Jason Stokes`   
